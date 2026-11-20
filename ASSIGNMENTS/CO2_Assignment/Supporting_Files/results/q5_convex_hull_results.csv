@@ -1,0 +1,3 @@
+Dataset,Num_Points,Hull_Edges_Found,Side_Tests,Time_ms
+Standard_Interior_Points,8,8,172,0.2075
+Challenge_Collinear_Points,7,12,146,0.0801

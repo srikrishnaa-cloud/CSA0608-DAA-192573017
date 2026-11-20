@@ -1,0 +1,1 @@
+Q4 Closest Pair benchmark completed successfully.

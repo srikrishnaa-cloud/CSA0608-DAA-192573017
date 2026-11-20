@@ -1,0 +1,4 @@
+Scenario,Text_Length,Pattern_Length,Match_Index,Comparisons,Time_ms
+Best_Case_Immediate_Mismatch,6006,6,6000,6006,0.8027
+Worst_Case_Pathological_Repeats,5000,51,49,2550,0.3691
+RealWorld_Log_Signature,178,21,130,151,0.0186

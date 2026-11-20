@@ -1,0 +1,1 @@
+Q2 Sequential Search Benchmark completed successfully.

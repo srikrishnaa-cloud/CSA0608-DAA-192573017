@@ -1,0 +1,37 @@
+N,Algorithm,Case,Comparisons,QueryTime_ms,PreprocessingTime_ms
+1000,Linear Search,Best,1,0.0084,0.0
+1000,Linear Search,Average,499.3666666666667,0.38784,0.0
+1000,Linear Search,Worst,1000,1.4503,0.0
+1000,Binary Search (Rec),Best,9,0.0761,1.405
+1000,Binary Search (Rec),Average,8.9,0.03321,1.405
+1000,Binary Search (Rec),Worst,10,0.0434,1.405
+1000,Hash Table Search,Best,1,0.0199,16.668
+1000,Hash Table Search,Average,1.4333333333333333,0.003817,16.668
+1000,Hash Table Search,Worst,1,0.011,16.668
+10000,Linear Search,Best,1,0.0097,0.0
+10000,Linear Search,Average,5090.3,7.221653,0.0
+10000,Linear Search,Worst,10000,5.9419,0.0
+10000,Binary Search (Rec),Best,13,0.0603,59.758
+10000,Binary Search (Rec),Average,12.233333333333333,0.18198,59.758
+10000,Binary Search (Rec),Worst,14,0.0504,59.758
+10000,Hash Table Search,Best,1,0.0153,220.294
+10000,Hash Table Search,Average,1.4666666666666666,0.026277,220.294
+10000,Hash Table Search,Worst,1,0.0076,220.294
+100000,Linear Search,Best,1,0.0058,0.0
+100000,Linear Search,Average,53357.566666666666,49.650693,0.0
+100000,Linear Search,Worst,100000,60.7096,0.0
+100000,Binary Search (Rec),Best,16,0.0683,558.438
+100000,Binary Search (Rec),Average,15.6,0.057463,558.438
+100000,Binary Search (Rec),Worst,17,0.0558,558.438
+100000,Hash Table Search,Best,1,0.0134,634.596
+100000,Hash Table Search,Average,1.6,0.008177,634.596
+100000,Hash Table Search,Worst,1,0.0061,634.596
+1000000,Linear Search,Best,1,0.0076,0.0
+1000000,Linear Search,Average,502886.73333333334,391.122457,0.0
+1000000,Linear Search,Worst,1000000,567.5585,0.0
+1000000,Binary Search (Rec),Best,19,0.2893,4324.475
+1000000,Binary Search (Rec),Average,18.6,0.11046,4324.475
+1000000,Binary Search (Rec),Worst,20,0.6094,4324.475
+1000000,Hash Table Search,Best,3,0.0139,12678.353
+1000000,Hash Table Search,Average,1.5,0.003737,12678.353
+1000000,Hash Table Search,Worst,0,0.0045,12678.353
